@@ -1,0 +1,32 @@
+.lien{
+    align-items: center;
+    width: 1540px;
+    text-align: right;
+    height: 50px;
+    font-size: 18px;
+    padding-bottom: 20px;
+    border-spacing: 30px;
+    font-family: 'BonaNova-Regular.ttf';
+}
+@font-face {
+    font-family: 'BonaNova-Regular.ttf';
+    src: url("../../public/fonts/BonaNova-Regular.ttf") format('truetype');
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 35px;
+}
+ul {
+    border-spacing: 100px;
+}
+body{
+    text-align: center;
+
+    font-family: 'BonaNova-Regular.ttf';
+}
+
+.acceuil{
+   margin-top: 255px;
+}
